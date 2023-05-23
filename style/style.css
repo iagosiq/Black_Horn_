@@ -50,7 +50,7 @@ a {
     text-align: center;
     background-color: #857d6d8b;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.267);
+    /* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.267); */
 }
 .button:hover {
     background-color: #7770628b;
