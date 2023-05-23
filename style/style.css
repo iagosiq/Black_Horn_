@@ -55,6 +55,10 @@ a {
     background-color: #7770628b;
 }
 
+.botoes {
+    margin-top: 50px;
+}
+
 h1 {
     text-align: center;
     margin-top: 20px;
@@ -63,7 +67,7 @@ h1 {
 }
 p{
     text-align: center;
-    margin-top: 20px;
+    margin-top: 5px;
     font-family: 'Baskervville', serif;
     color: #C3C0B8;
 }
