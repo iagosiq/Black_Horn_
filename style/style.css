@@ -6,6 +6,7 @@
     padding: 0px;
 }
 main {
+    display: block;
     width: 80vw;
     margin: auto;
 }
@@ -17,8 +18,8 @@ body {
 }
 
 .logo_small {
-    height: 20px;
-    margin: 10px;
+    height: 40px;
+    margin-right: 10px;
 }
 
 #blackhorn {
@@ -32,7 +33,7 @@ body {
 
 #links {
     text-align: center;
-    margin: 50px;
+    /* margin: 50px; */
 }
 
 a {
