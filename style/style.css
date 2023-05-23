@@ -19,7 +19,7 @@ body {
 }
 
 .logo_small {
-    height: 20px;
+    height: 25px;
     margin-top: 20px;
     margin-right: 10px;
 }
@@ -53,10 +53,6 @@ a {
 }
 .button:hover {
     background-color: #7770628b;
-}
-
-.botoes {
-    margin-top: 50px;
 }
 
 h1 {
