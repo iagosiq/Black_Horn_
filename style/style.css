@@ -80,6 +80,9 @@ p{
 
 #pag_2 {
     height: 700px;
+    width: 100vw;
+    margin-left: -150px;
     background-color: #C3C0B8;
     color: white;
 }
+
