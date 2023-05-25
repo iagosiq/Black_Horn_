@@ -73,3 +73,13 @@ p{
     color: #C3C0B8;
 }
 
+#pag_1 {
+    height: 1vh;
+    background-size: 1vh;
+}
+
+#pag_2 {
+    height: 700px;
+    background-color: #C3C0B8;
+    color: white;
+}
